@@ -1,6 +1,6 @@
 {
   "name": "@riotprompt/riotplan-renderer",
-  "version": "0.0.2-dev.0",
+  "version": "0.0.3-dev.0",
   "description": "Render RiotPlan plans to various formats",
   "type": "module",
   "main": "dist/index.cjs",
@@ -36,7 +36,7 @@
   "author": "Tim O'Brien",
   "license": "MIT",
   "dependencies": {
-    "@riotprompt/riotplan": "file:../riotplan"
+    "@riotprompt/riotplan": "^0.0.4"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.0",

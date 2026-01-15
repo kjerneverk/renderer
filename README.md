@@ -35,3 +35,5 @@ const html = renderToHtml(plan, { theme: "dark" });
 
 MIT
 
+<!-- v1.0.0 -->
+

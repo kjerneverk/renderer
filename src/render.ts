@@ -4,7 +4,7 @@
  * Render a plan to different formats.
  */
 
-import type { Plan } from "@riotprompt/riotplan";
+import type { Plan } from "@kjerneverk/riotplan";
 import {
   renderToMarkdown,
   type MarkdownRenderOptions,

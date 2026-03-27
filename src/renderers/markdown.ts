@@ -4,7 +4,7 @@
  * Render a plan to Markdown format.
  */
 
-import type { Plan, PlanStep } from "@riotprompt/riotplan";
+import type { Plan, PlanStep } from "@kjerneverk/riotplan";
 
 /**
  * Options for Markdown rendering

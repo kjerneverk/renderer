@@ -4,7 +4,7 @@
  * Render a plan to JSON format.
  */
 
-import type { Plan } from "@riotprompt/riotplan";
+import type { Plan } from "@kjerneverk/riotplan";
 
 /**
  * Options for JSON rendering
